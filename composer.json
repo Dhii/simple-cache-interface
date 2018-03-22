@@ -1,6 +1,6 @@
 {
     "name": "dhii/simple-cache-interface",
-    "description": "A simple implementation of a cache interface inspired by PSR-16.",
+    "description": "A simple cache standard inspired by PSR-16.",
     "type": "library",
     "license": "MIT",
     "authors": [
